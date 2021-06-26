@@ -4,7 +4,7 @@ h1, h2 {
   color: purple;
 }
 
-p {
+p, ul {
   color: green;
   font-size: 30px;
 }
