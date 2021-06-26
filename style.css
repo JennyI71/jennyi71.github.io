@@ -1,8 +1,4 @@
-img {
-  img-size: 50px;
-}
-
-h1, h2, p {
+h1, h2 {
   font-family: Heletica;
   font-size: 30px;
   color: blue;
