@@ -3,3 +3,7 @@ h1, h2 {
   font-size: 30px;
   color: blue;
 }
+
+image {
+  size: 80px;
+}
