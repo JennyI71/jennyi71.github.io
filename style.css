@@ -1,11 +1,7 @@
 h1, h2 {
-  font-family: Verdana;
-  font-size: 50px;
   color: purple;
 }
 
 p, ul {
-  font-family: Helvetica;
   color: green;
-  font-size: 30px;
 }
