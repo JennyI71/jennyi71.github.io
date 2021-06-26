@@ -1,3 +1,9 @@
 img {
   size: 50px;
 }
+
+h1, h2, p {
+  font-family: Heletica;
+  font-size: 30px;
+  color: blue;
+}
