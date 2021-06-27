@@ -5,4 +5,5 @@ h1, h2 {
 
 p, ul {
   color: green;
+  text-align: center;
 }
